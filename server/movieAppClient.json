@@ -1,0 +1,8 @@
+{
+    "url": "https://movie-app-client-blue.vercel.app/",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "movies": "/movies"
+    }
+}
